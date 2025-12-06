@@ -1,7 +1,7 @@
 import Marquee from "react-fast-marquee";
 
 // Import images directly (Vite will optimize + hash them)
-import Black from "../../assets/brands/black.png";
+import Black from "../../assets/brands/Black.png";
 import McMansions from "../../assets/brands/McMansionsProject.png";
 import Sabiwriters from "../../assets/brands/Sabiwriters.png";
 import Rocketours from "../../assets/brands/Rocketours.png";
