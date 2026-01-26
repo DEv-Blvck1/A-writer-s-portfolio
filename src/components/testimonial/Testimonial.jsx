@@ -12,8 +12,8 @@ const testimonialData = [
     message:
       "Working with this team was a fantastic experience. Their attention to detail and commitment to quality exceeded our expectations.",
     quote: `From the initial consultation to the final delivery, every step was handled professionally. The end result was a product that not only met our needs but also impressed our stakeholders. Highly recommended!`,
-    name: "CHINONSO OGBOGU",
-    designation: "Managing Director, Sabiwriters",
+    name: "SAMUEL LEWAN",
+    designation: "Managing Director, Echo Structures",
   },
   // {
   //   message:
